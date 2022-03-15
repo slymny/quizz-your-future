@@ -1,8 +1,8 @@
 import { SOUND_ICON_ID, NAVBAR_QUERY } from "../constants.js";
 
 const sounds = {
-	correct: new Audio('../../public/assets/sounds/Negative_Bell_Bling_Game_Sound.wav'),
-	bgMusic: new Audio('../../public/assets/sounds/background-music.mp3')
+	correct: new Audio('https://github.com/slymny/quizz-your-future/public/assets/sounds/Negative_Bell_Bling_Game_Sound.wav'),
+	bgMusic: new Audio('https://github.com/slymny/quizz-your-future/public/assets/sounds/background-music.mp3')
 }
 
 const SOUND_ICON_ON = '../../public/assets/img/soundon.png';
