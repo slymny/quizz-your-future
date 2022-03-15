@@ -5,8 +5,8 @@ const sounds = {
 	bgMusic: new Audio('https://github.com/slymny/quizz-your-future/public/assets/sounds/background-music.mp3')
 }
 
-const SOUND_ICON_ON = '../../public/assets/img/soundon.png';
-const SOUND_ICON_MUTE = '../../public/assets/img/mute.png';
+const SOUND_ICON_ON = 'https://github.com/slymny/quizz-your-future/public/assets/img/soundon.png';
+const SOUND_ICON_MUTE = 'https://github.com/slymny/quizz-your-future/public/assets/img/mute.png';
 
 sounds.bgMusic.volume = "0.2";
 
